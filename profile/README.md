@@ -1,6 +1,6 @@
 # Pewterdesk
 
-Building **Pewterdesk** a client-side, non-custodial crypto derivatives trading terminal. No backend, no custody: it talks directly to exchange APIs and Hyperliquid from your own machine, and your keys never leave it.
+Building **Pewterdesk** a client-side, non-custodial crypto derivatives trading terminal. No backend, no custody: it talks directly to exchange APIs and Hyperliquid from your own machine, and your keys never leave your device.
 
 - Desktop-first (Tauri + Rust), TypeScript throughout
 - Non-custodial keys stay in your OS keychain, never touch a server we run
