@@ -2,10 +2,10 @@
 
 Building **Pewterdesk** — a client-side, non-custodial crypto derivatives trading terminal. No backend, no custody: it talks directly to exchange APIs and Hyperliquid from your own machine, and your keys never leave it.
 
-- 🖥️ Desktop-first (Tauri + Rust), TypeScript throughout
-- 🔑 Non-custodial — keys stay in your OS keychain, never touch a server we run
-- 🌐 Hyperliquid at launch, more venues after
-- 📖 Open source, free to build and run
+- Desktop-first (Tauri + Rust), TypeScript throughout
+- Non-custodial — keys stay in your OS keychain, never touch a server we run
+- Hyperliquid at launch, more venues after
+- Open source, free to build and run
 
 ### Repos
 
