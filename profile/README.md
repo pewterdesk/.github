@@ -12,7 +12,6 @@ Building **Pewterdesk** a client-side, non-custodial crypto derivatives trading 
 | Repo | What it is |
 |---|---|
 | `pewterdesk` | The monorepo core types, exchange adapters, UI, and the desktop app |
-| `pewterdesk-docs` | Install guide, security model, contributing guide |
 | `.github` | This repo org-wide templates and shared CI |
 
 ### Status
